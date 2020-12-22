@@ -45,7 +45,7 @@ How to use
 
 
 Run seed file in MySQL Workbench or an equivalent if you would like starting data
-Run node index.js in your terminal to start the application
+Run node app.js in your terminal to start the application
 
 
 
