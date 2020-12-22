@@ -1,0 +1,19 @@
+{
+  "name": "homework12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DexBurns25/Employee_Tracker.git"
+  },
+  "author": "Dexter Burns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DexBurns25/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/DexBurns25/Employee_Tracker#readme"
+}
