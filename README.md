@@ -18,3 +18,5 @@ install the required packages via "npm install" in the root directory (location 
 
 Usage
 Program is run by executing "node app.js" The user is brought to a main menu with a list of commands that can be execute. Some options have further choices and prompts to interact with the system.
+
+
